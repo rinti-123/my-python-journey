@@ -1,0 +1,14 @@
+# to clone a repo:
+git clone github_address
+
+# to stage a file
+git add file_name
+
+# to stage a directory
+git add .
+
+# to commit a change
+git commit -m "commit message"
+
+#to push a change to github
+git push -u origin main
